@@ -1,4 +1,9 @@
-Created using `nuxi init nuxt-min-reproduction`
+Created using `nuxi init nuxt-min-reproduction`, `npm install`, `npm install firebase`
+
+Created `plugins/firebase.server.js`, edited `app.vue`
+
+Reproduce by `nuxi build`
+and `nuxi preview`
 
 # Nuxt 3 Minimal Starter
 
